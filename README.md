@@ -4,6 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages][def]
-
-[def]: https://VIMS06.github.io/PR_1/assets/index.html
+- [Публичная страница на GitHub Pages][https://vims06.github.io/PR_1/]
